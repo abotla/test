@@ -1,0 +1,20 @@
+1511902378610: SipProvider-5070: Date: 14:52:58.609 Tue 28 Nov 2017
+1511902378611: SipProvider-5070: SipStack: mjsip 1.7
+1511902378611: SipProvider-5070: new SipProvider(): 5070/
+1511902378617: SipProvider-5070: udp is up at port 5070
+1511902378623: SipProvider-5070: tcp is up at port 5070
+1511902378827: UA: ua_address: 192.168.50.56:5070
+1511902378828: UA: user's uri: "Alice" <sip:alice@127.0.0.2>
+1511902378829: UA: proxy: 127.0.0.2
+1511902378829: UA: registrar: 127.0.0.2
+1511902378829: UA: auth_realm: 127.0.0.2
+1511902378829: UA: auth_user: alice
+1511902378829: UA: auth_passwd: ******
+1511902378829: UA: audio: true
+1511902378829: UA: video: false
+1511902378829: UA: media: audio 3000 rtp/avp { audio 0 PCMU 8000 160, audio 8 PCMA 8000 160 }
+1511902378830: UA: media: video 3002 rtp/avp { video 101 }
+1511902378831: SipProvider-5070: setting SipProviderListener: INVITE
+1511902378832: SipProvider-5070: setting SipProviderListener: OPTIONS
+1511902378832: SipProvider-5070: setting SipProviderListener: ANY
+1511902379191: GraphicalUA: state: IDLE
