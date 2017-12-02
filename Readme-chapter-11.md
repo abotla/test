@@ -1,9 +1,8 @@
 # Aneeshwar Botla
 # ITMO-556 Week-13-Lab-2
 
-
-```
 1-
+```
 GRUB_BACKGROUND= "/usr/share/background/Candy_by_Bernhard_Hanakam.jpg"
 sudo update-grub 
 ```
