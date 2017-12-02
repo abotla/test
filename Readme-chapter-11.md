@@ -141,4 +141,4 @@ hostnamectl set-hostname itmo-556-abotla
 hostnamectl set-location Chicago
 hostnamectl set-chassis VM
 ```
-![19](https://user-images.githubusercontent.com/3315855
+![19](https://user-images.githubusercontent.com/33158558/33520009-2208835a-d778-11e7-91ad-b62417215751.JPG)
