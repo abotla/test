@@ -25,7 +25,7 @@ systemctl status mariadb.service
 
 4. 
 ```
-systemd-analyse time
+systemd-analyse
 ```
 ![4-a](https://user-images.githubusercontent.com/33158558/33519375-2304677c-d76b-11e7-8977-80eeae259f30.JPG)
 ```
