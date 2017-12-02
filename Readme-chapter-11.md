@@ -8,10 +8,13 @@
 2. systemd-analyse time
 ![2](https://user-images.githubusercontent.com/33158558/33519373-22eab39a-d76b-11e7-9fc2-3cc30d906a02.JPG)
 
-3. sudo dnf install mariadb mariadb-server
-   systemctl status mariadb.service
-   systemctl  start mariadb.service
-   systemctl status mariadb.service
+3. 
+```
+sudo dnf install mariadb mariadb-server
+systemctl status mariadb.service
+systemctl  start mariadb.service
+systemctl status mariadb.service
+```
 ![3](https://user-images.githubusercontent.com/33158558/33519374-22f7975e-d76b-11e7-9f75-b83b4e00d51e.JPG)
 
 4. systemd-analyse time
