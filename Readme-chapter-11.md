@@ -1,16 +1,15 @@
 # Aneeshwar Botla
 # ITMO-556 Week-13-Lab-2
 
-1-
+1.
 ```
 GRUB_BACKGROUND= "/usr/share/background/Candy_by_Bernhard_Hanakam.jpg"
 sudo update-grub 
 ```
 ![1](https://user-images.githubusercontent.com/33158558/33519372-22dc5c28-d76b-11e7-8393-2426d9c83a15.JPG)
 
- 
+2.
 ```
-2-
 systemd-analyse time
 ```
 ![2](https://user-images.githubusercontent.com/33158558/33519373-22eab39a-d76b-11e7-9fc2-3cc30d906a02.JPG)
@@ -70,13 +69,13 @@ systemctl show -p "Wants" -p "After" sshd.service
 ![9](https://user-images.githubusercontent.com/33158558/33519381-235f458e-d76b-11e7-9891-08b05dd9f34f.JPG)
 
 10. 
-Low Priority Command
 ```
+Low Priority Command
 nice -n 19 ./a.out
 ```
 ![10a](https://user-images.githubusercontent.com/33158558/33519867-7ced6aa4-d775-11e7-89d8-c8e60adccd18.JPG)
-High Priority Command
 ```
+High Priority Command
 nice -n -20 ./a.out
 ```   
 ![10b](https://user-images.githubusercontent.com/33158558/33519680-579e53f2-d771-11e7-9e4c-503281ac2899.JPG)
@@ -133,6 +132,7 @@ timedatectl set-timezone UTC
 timedatectl
 ```
 ![18](https://user-images.githubusercontent.com/33158558/33519390-23deae78-d76b-11e7-83b8-1a62667a338c.JPG)
+
 19.
 ```
 hostnamectl set-hostname itmo-556-abotla
