@@ -28,7 +28,9 @@ systemctl status mariadb.service
 systemd-analyse time
 ```
 ![4-a](https://user-images.githubusercontent.com/33158558/33519375-2304677c-d76b-11e7-8977-80eeae259f30.JPG)
-```As we can see there is 8 second delay in bootup``` 
+```
+As we can see there is 8 second delay in bootup
+``` 
 ![4-b](https://user-images.githubusercontent.com/33158558/33519376-2313a0b6-d76b-11e7-8ee7-a39d20073a15.JPG)
 
 5. 
